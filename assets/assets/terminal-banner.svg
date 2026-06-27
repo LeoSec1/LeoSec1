@@ -1,0 +1,31 @@
+<svg width="900" height="170" viewBox="0 0 900 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#000000"/>
+      <stop offset="0.55" stop-color="#0b1120"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(690 42) rotate(150) scale(360 120)">
+      <stop stop-color="#334155" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="typing-mask">
+      <rect x="202" y="49" width="0" height="38" fill="#ffffff">
+        <animate attributeName="width" values="0;496;496;0" keyTimes="0;0.68;0.9;1" dur="8s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+  <rect width="900" height="170" rx="0" fill="url(#bg)"/>
+  <rect width="900" height="170" fill="url(#glow)"/>
+  <path d="M50 116C145 84 204 131 292 92C380 53 432 94 520 61C608 28 683 78 850 37" stroke="#334155" stroke-opacity="0.55" stroke-width="1"/>
+  <path d="M90 52H250M650 128H810M110 132H210" stroke="#1f2937" stroke-width="1" stroke-linecap="round"/>
+  <g fill="#94a3b8" opacity="0.42">
+    <circle cx="147" cy="90" r="2"/><circle cx="292" cy="92" r="2"/><circle cx="520" cy="61" r="2"/><circle cx="683" cy="78" r="2"/><circle cx="760" cy="55" r="2"/>
+  </g>
+  <text x="202" y="76" fill="#e5e7eb" font-family="Consolas, 'Fira Code', monospace" font-size="28" font-weight="600" letter-spacing="0" mask="url(#typing-mask)">Leonardo Ramos | Cybersecurity</text>
+  <rect x="202" y="50" width="3" height="34" fill="#e5e7eb">
+    <animate attributeName="x" values="202;698;698;202" keyTimes="0;0.68;0.9;1" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="450" y="114" text-anchor="middle" fill="#94a3b8" font-family="Consolas, 'Fira Code', monospace" font-size="14">Aprendendo na pratica, evoluindo todos os dias.</text>
+</svg>
