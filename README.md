@@ -1,8 +1,8 @@
 <div align="center">
 
-![Leonardo Ramos | SOC & Cybersecurity](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,55:0e7490,100:22c55e&text=Leonardo%20Ramos&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Profissional%20de%20TI%20em%20transi%C3%A7%C3%A3o%20para%20Ciberseguran%C3%A7a%20%7C%20Foco%20em%20SOC&descAlignY=58&descSize=15)
+![Leonardo Ramos | Cybersecurity](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,55:0e7490,100:22c55e&text=Leonardo%20Ramos&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Analista%20de%20Redes%20%7C%20Infraestrutura%20de%20TI%20%7C%20Ciberseguran%C3%A7a%20%7C%20Blue%20Team%20%7C%20SIEM&descAlignY=58&descSize=13)
 
-### Profissional de TI em transição para Cibersegurança, com foco em SOC
+### Analista de Redes | Engenharia de Software | Infraestrutura de TI | Cibersegurança | Blue Team | SIEM
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leotech1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leotech1/)
 [![GitHub](https://img.shields.io/badge/GitHub-LeoSec1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeoSec1)
@@ -13,22 +13,22 @@
 
 Sou estudante de **Engenharia de Software** e **Defesa Cibernética**, atualmente em preparação para a **CompTIA Security+**.
 
-Minha trajetória profissional passa por suporte técnico, infraestrutura, redes e ambientes Windows. Tenho experiência com resolução de problemas de conectividade, suporte a usuários, instalação e manutenção de equipamentos de rede como APs e switches, além de atuação com redes cabeadas e wireless.
+Minha experiência profissional abrange suporte técnico, infraestrutura, redes e ambientes Windows, com atuação em resolução de problemas de conectividade, suporte a usuários, instalação e manutenção de equipamentos de rede como APs e switches, além de redes cabeadas e wireless.
 
-Neste momento, estou direcionando minha carreira para atuação em **SOC**, com foco em monitoramento, triagem de alertas, análise de eventos e resposta a incidentes.
+Tenho direcionado minha carreira para Cibersegurança, com foco em **SOC**, monitoramento, triagem de alertas, análise de eventos e resposta a incidentes.
 
 ## Foco Atual
 
+- Suporte técnico, infraestrutura e ambientes Windows
+- Redes cabeadas, wireless, APs, switches e conectividade
 - Operações de SOC e fundamentos de Blue Team
 - Monitoramento, triagem de alertas e análise de eventos
 - Resposta a incidentes e investigação inicial
-- Redes cabeadas, wireless, APs, switches e conectividade
-- Ambientes Windows, suporte a usuários e troubleshooting
-- Estudos para CompTIA Security+
+- Preparação para CompTIA Security+
 
 ## Portfólio em Construção
 
-Este GitHub será usado para publicar projetos práticos, laboratórios e anotações técnicas relacionados à minha evolução em Cibersegurança.
+Este GitHub será usado para publicar projetos práticos, laboratórios e anotações técnicas relacionados à minha evolução em TI e Cibersegurança.
 
 | Área | Conteúdo |
 |---|---|
@@ -59,6 +59,6 @@ Este GitHub será usado para publicar projetos práticos, laboratórios e anota�
 
 <div align="center">
 
-**Aberto a networking e oportunidades na área de TI e Cibersegurança.**
+**Aberto a networking e oportunidades na área de TI.**
 
 </div>
