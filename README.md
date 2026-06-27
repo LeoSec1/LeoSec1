@@ -2,7 +2,7 @@
 
 ![Leonardo Ramos | Black Tech Banner](https://capsule-render.vercel.app/api?type=rect&height=170&color=0:000000,55:0b1120,100:111827&text=Leonardo%20Ramos&fontColor=e5e7eb&fontSize=28&fontAlignY=40&desc=Aprendendo%20na%20pr%C3%A1tica%2C%20evoluindo%20todos%20os%20dias.&descAlignY=62&descSize=13&animation=fadeIn&stroke=334155&strokeWidth=1)
 
-### Analista de Redes | Engenharia de Software | Infraestrutura de TI | Cibersegurança | Blue Team | SIEM
+### Analista de Redes | Engenharia de Software | Infraestrutura de TI | Cibersegurança | Blue Team 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leotech1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leotech1/)
 [![GitHub](https://img.shields.io/badge/GitHub-LeoSec1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeoSec1)
