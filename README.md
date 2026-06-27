@@ -1,6 +1,6 @@
 <div align="center">
 
-![Leonardo Ramos | Black Tech Banner](https://capsule-render.vercel.app/api?type=rect&height=170&color=0:000000,55:0b1120,100:111827&text=Leonardo%20Ramos&fontColor=f8fafc&fontSize=36&fontAlignY=38&desc=IT%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20SOC&descAlignY=62&descSize=13&animation=fadeIn&stroke=334155&strokeWidth=1)
+![Leonardo Ramos | Black Tech Banner](https://capsule-render.vercel.app/api?type=rect&height=170&color=0:000000,55:0b1120,100:111827&text=Leonardo%20Ramos&fontColor=f8fafc&fontSize=36&fontAlignY=38&desc=Aprendendo%20na%20pr%C3%A1tica%2C%20evoluindo%20todos%20os%20dias.&descAlignY=62&descSize=13&animation=fadeIn&stroke=334155&strokeWidth=1)
 
 ### Analista de Redes | Engenharia de Software | Infraestrutura de TI | Cibersegurança | Blue Team | SIEM
 
