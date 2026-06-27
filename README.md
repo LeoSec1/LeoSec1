@@ -1,6 +1,6 @@
 <div align="center">
 
-![Leonardo Ramos | Cybersecurity Black Tech Banner](https://capsule-render.vercel.app/api?type=rect&height=170&color=0:000000,55:0b1120,100:111827&text=Leonardo%20Ramos%20%7C%20Cybersecurity&fontColor=e5e7eb&fontSize=28&fontAlignY=40&desc=Aprendendo%20na%20pr%C3%A1tica%2C%20evoluindo%20todos%20os%20dias.&descAlignY=62&descSize=13&animation=fadeIn&stroke=334155&strokeWidth=1)
+![Leonardo Ramos | Cybersecurity Black Tech Banner](https://capsule-render.vercel.app/api?type=rect&height=170&color=0:000000,55:0b1120,100:111827&text=Leonardo%20Ramos%20%7C%20Cybersecurity&fontColor=e5e7eb&fontSize=28&fontAlignY=40&desc=Aprendendo%20na%20pr%C3%A1tica%2C%20evoluindo%20todos%20os%20dias.&descAlignY=62&descSize=13&animation=blinking&stroke=334155&strokeWidth=1)
 
 ### Analista de Redes | Engenharia de Software | Infraestrutura de TI | Cibersegurança | Blue Team 
 
