@@ -2,7 +2,7 @@
 
 ![Leonardo Ramos | Black Tech Banner](https://capsule-render.vercel.app/api?type=rect&height=170&color=0:000000,55:0b1120,100:111827&text=Leonardo%20Ramos&fontColor=e5e7eb&fontSize=28&fontAlignY=40&desc=Aprendendo%20na%20pr%C3%A1tica%2C%20evoluindo%20todos%20os%20dias.&descAlignY=62&descSize=13&animation=fadeIn&stroke=334155&strokeWidth=1)
 
-### Analista de Redes | Engenharia de Software | Infraestrutura de TI | Cibersegurança | Blue Team 
+### Analista de Redes | Engenharia de Software | Infraestrutura de TI | Cibersegurança | Blue Team | SIEM
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leotech1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leotech1/)
 [![GitHub](https://img.shields.io/badge/GitHub-LeoSec1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeoSec1)
@@ -11,32 +11,28 @@
 
 ## Sobre
 
-Sou estudante de **Engenharia de Software** e **Defesa Cibernética**, atualmente em preparação para a **CompTIA Security+**.
+Profissional de TI com experiência em suporte técnico, infraestrutura, redes e ambientes Windows, direcionando a carreira para Cibersegurança com foco em **SOC**, **Blue Team** e análise de eventos.
 
-Minha experiência profissional abrange suporte técnico, infraestrutura, redes e ambientes Windows, com atuação em resolução de problemas de conectividade, suporte a usuários, instalação e manutenção de equipamentos de rede como APs e switches, além de redes cabeadas e wireless.
-
-Tenho direcionado minha carreira para Cibersegurança, com foco em **SOC**, monitoramento, triagem de alertas, análise de eventos e resposta a incidentes.
+Atualmente estudo **Engenharia de Software** e **Defesa Cibernética**, com preparação para a **CompTIA Security+**.
 
 ## Foco Atual
 
-- Suporte técnico, infraestrutura e ambientes Windows
-- Redes cabeadas, wireless, APs, switches e conectividade
-- Operações de SOC e fundamentos de Blue Team
-- Monitoramento, triagem de alertas e análise de eventos
-- Resposta a incidentes e investigação inicial
-- Preparação para CompTIA Security+
+- Operações de SOC, triagem de alertas e análise de eventos
+- Fundamentos de Blue Team, SIEM e resposta a incidentes
+- Redes, infraestrutura, Windows e troubleshooting
+- Laboratórios práticos de cibersegurança documentados
 
-## Portfólio em Construção
+## Portfólio
 
-Este GitHub será usado para publicar projetos práticos, laboratórios e anotações técnicas relacionados à minha evolução em TI e Cibersegurança.
+Este GitHub será usado para publicar projetos práticos, laboratórios e anotações técnicas sobre minha evolução em TI e Cibersegurança.
 
 | Área | Conteúdo |
 |---|---|
-| SOC / Blue Team | Estudos de alertas, logs, eventos e resposta a incidentes |
-| Redes | Fundamentos, troubleshooting e práticas de conectividade |
-| Windows | Anotações e práticas voltadas a suporte e segurança |
-| Labs de Segurança | Laboratórios documentados com metodologia e aprendizados |
-| Scripts | Automações simples para apoio em estudos e rotinas técnicas |
+| SOC / Blue Team | Alertas, logs, eventos e resposta a incidentes |
+| Redes | Fundamentos, troubleshooting e conectividade |
+| Windows | Suporte, administração e segurança |
+| Labs de Segurança | Laboratórios com metodologia e aprendizados |
+| Scripts | Automações simples para estudos e rotinas técnicas |
 
 ## Tecnologias e Temas
 
